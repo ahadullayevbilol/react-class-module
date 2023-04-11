@@ -1,0 +1,177 @@
+.countries {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 336px;
+    margin-bottom: 75px;
+    .first_country {
+        width: 264px;
+        height: 100%;
+        background: #ffffff;
+        box-shadow: 0px 0px 7px 2px rgba(0, 0, 0, 0.0294384);
+        border-radius: 5px;
+        img {
+            width: 100%;
+            margin-bottom: 24px;
+        }
+        .info {
+            width: 150px;
+            height: 106px;
+            margin-left: 24px;
+            h1 {
+                font-weight: 800;
+                font-size: 18px;
+                color: #111517;
+                margin-bottom: 16px;
+            }
+
+            p {
+                font-weight: 600;
+                font-size: 14px;
+                color: #111517;
+                margin-bottom: 8px;
+            }
+
+            h3 {
+                font-weight: 600;
+                font-size: 14px;
+                color: #111517;
+                margin-bottom: 8px;
+            }
+            h4 {
+                font-weight: 600;
+                font-size: 14px;
+                line-height: 16px;
+                color: #111517;
+            }
+        }
+    }
+    .second_country {
+        width: 264px;
+        height: 100%;
+        background: #ffffff;
+        box-shadow: 0px 0px 7px 2px rgba(0, 0, 0, 0.0294384);
+        border-radius: 5px;
+        img {
+            width: 100%;
+            height: 160px;
+            margin-bottom: 24px;
+        }
+        .info {
+            width: 240px;
+            height: 106px;
+            margin-left: 24px;
+            h1 {
+                font-weight: 800;
+                font-size: 18px;
+                color: #111517;
+                margin-bottom: 16px;
+            }
+
+            p {
+                font-weight: 600;
+                font-size: 14px;
+                color: #111517;
+                margin-bottom: 8px;
+            }
+
+            h3 {
+                font-weight: 600;
+                font-size: 14px;
+                color: #111517;
+                margin-bottom: 8px;
+            }
+            h4 {
+                font-weight: 600;
+                font-size: 14px;
+                line-height: 16px;
+                color: #111517;
+            }
+        }
+    }
+    .third_country {
+        width: 264px;
+        height: 100%;
+        background: #ffffff;
+        box-shadow: 0px 0px 7px 2px rgba(0, 0, 0, 0.0294384);
+        border-radius: 5px;
+        img {
+            width: 100%;
+            height: 160px;
+            margin-bottom: 24px;
+        }
+        .info {
+            width: 240px;
+            height: 106px;
+            margin-left: 24px;
+            h1 {
+                font-weight: 800;
+                font-size: 18px;
+                color: #111517;
+                margin-bottom: 16px;
+            }
+
+            p {
+                font-weight: 600;
+                font-size: 14px;
+                color: #111517;
+                margin-bottom: 8px;
+            }
+
+            h3 {
+                font-weight: 600;
+                font-size: 14px;
+                color: #111517;
+                margin-bottom: 8px;
+            }
+            h4 {
+                font-weight: 600;
+                font-size: 14px;
+                line-height: 16px;
+                color: #111517;
+            }
+        }
+    }
+    .fourth_country {
+        width: 264px;
+        height: 100%;
+        background: #ffffff;
+        box-shadow: 0px 0px 7px 2px rgba(0, 0, 0, 0.0294384);
+        border-radius: 5px;
+        img {
+            width: 100%;
+            margin-bottom: 24px;
+        }
+        .info {
+            width: 240px;
+            height: 106px;
+            margin-left: 24px;
+            h1 {
+                font-weight: 800;
+                font-size: 18px;
+                color: #111517;
+                margin-bottom: 16px;
+            }
+
+            p {
+                font-weight: 600;
+                font-size: 14px;
+                color: #111517;
+                margin-bottom: 8px;
+            }
+
+            h3 {
+                font-weight: 600;
+                font-size: 14px;
+                color: #111517;
+                margin-bottom: 8px;
+            }
+            h4 {
+                font-weight: 600;
+                font-size: 14px;
+                line-height: 16px;
+                color: #111517;
+            }
+        }
+    }
+}
